@@ -59,7 +59,7 @@
     "outboundTag": "direct",
     "ip": [
       "geoip:private",
-      "geoip:cn",
+      "geoip:cn"
     ],
     "domain": [
       "bitwarden.com",
