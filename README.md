@@ -99,7 +99,7 @@
     "outboundTag": "proxy",
     "domain": [
      "geosite:gfw",
-     "geosite:greatfire",
+     "geosite:greatfire"
     ]
   },
   {
